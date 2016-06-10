@@ -1,0 +1,60 @@
+* /*selects everything in the web page*/
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*stlying the body*/
+body
+{
+	font-family: sans-serif;
+
+}
+/*styling the centre marker*/
+#wrapper4
+{
+    width: 77%;
+	border: 0px solid #033;
+	margin:auto;
+	
+	position: absolute;
+}
+#abbe
+{
+ background-color: #000080;
+ color: white;
+ padding: 6px 6px 8px 10px;
+
+
+}
+
+#mission
+{
+	 background-color: #000080;
+ color: white;
+ padding: 6px 6px 8px 10px;
+}
+#aside
+{
+	float: right;
+	margin: 0 1.5%;
+	width: 24%;
+	position: absolute;
+	top:0px;
+	right: -250px;
+}
+/*styling the related links aspect and the headers for thought of the term*/
+#rellinks, #thought,#gallery
+{
+	background-color: #000080;
+ color: white;
+ padding: 6px 6px 8px 10px;
+
+}
+/*styling the related link covers and the second covers for thought of the term*/
+#cover,#totcover,#galcover
+{
+	border: 1px solid black;
+}
+
+

@@ -1,0 +1,25 @@
+#footer
+{
+	border:1px solid black;
+	width: 100%;
+}
+#footer
+{
+	border-collapse: collapse;
+}
+th 
+{
+	height: 50px;
+	text-align: left;
+}
+th,td 
+{
+	padding: 0px;
+	text-align: left;
+}
+
+#footer
+{
+	background-color: black;
+	color: white
+}

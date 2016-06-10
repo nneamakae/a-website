@@ -1,0 +1,27 @@
+* /*selects everything in the web page*/
+{
+	margin: 0px;
+	padding: 0px;
+}
+/*stlying the body*/
+body
+{
+	font-family: sans-serif;
+
+}
+/*styling the centre marker*/
+#wrapper5
+{
+    width: 77%;
+    border: 0px solid #033;
+	text-align: left;
+	position: relative;
+}
+/*styling the careers header*/
+#alumni
+{
+	background-color: #000080;
+ color: white;
+ padding: 6px 6px 8px 10px;
+
+}
